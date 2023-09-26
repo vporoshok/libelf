@@ -1,7 +1,7 @@
 INCDIR = $(PREFIX)/include
 LIBDIR = $(PREFIX)/lib
 
-CFLAGS = -O2 -Wall
+# CFLAGS = -O2 -Wall
 LDFLAGS =
 LDLIBS = -lz -lzstd
 
